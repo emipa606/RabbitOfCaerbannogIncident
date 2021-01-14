@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Rabbit Single -->
+  <LetterLabelKillerRabbitSingleArrived>カルバノグの殺人ウサギ</LetterLabelKillerRabbitSingleArrived>
+  <KillerRabbitSingleArrived>カルバノグの殺人ウサギが来ました!
+	
+注意!この獰猛な獣は攻撃されるとすぐに狂暴となり、獲物を探し回るようになります！
+補足)これは1974年に公開された映画「モンティ・パイソン・アンド・ホーリー・グレイル」に出てくる狂暴な殺人ウサギをモチーフにしています。</KillerRabbitSingleArrived>
+  <!-- Rabbit Pack -->
+  <LetterLabelKillerRabbitPackArrived>カルバノグの殺人ウサギたち</LetterLabelKillerRabbitPackArrived>
+  <KillerRabbitPackArrived>カルバノグの殺人ウサギが大群で来ました! 
+		
+注意!この獰猛な獣は攻撃されるとすぐに狂暴となり、獲物を探し回るようになります！
+補足)これは1974年に公開された映画「モンティ・パイソン・アンド・ホーリー・グレイル」に出てくる狂暴な殺人ウサギをモチーフにしています。</KillerRabbitPackArrived>
+</LanguageData>

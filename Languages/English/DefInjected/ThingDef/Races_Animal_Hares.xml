@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rabbit_of_Caerbannog.label>rabbit of Caerbannog</Rabbit_of_Caerbannog.label>
+  <Rabbit_of_Caerbannog.description>That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!</Rabbit_of_Caerbannog.description>
+  <Rabbit_of_Caerbannog.tools.1.label>left claw</Rabbit_of_Caerbannog.tools.1.label>
+  <Rabbit_of_Caerbannog.tools.2.label>right claw</Rabbit_of_Caerbannog.tools.2.label>
+  <Rabbit_of_Caerbannog.tools.3.label>head</Rabbit_of_Caerbannog.tools.3.label>
+  <Rabbit_of_Caerbannog_Leather.label>caerbannog fur</Rabbit_of_Caerbannog_Leather.label>
+  <Rabbit_of_Caerbannog_Leather.description>caerbannog fur</Rabbit_of_Caerbannog_Leather.description>
+  <Rabbit_of_Caerbannog_Leather.stuffProps.stuffAdjective>caerbannog fur</Rabbit_of_Caerbannog_Leather.stuffProps.stuffAdjective>
+  <Rabbit_of_Caerbannog_Meat.label>rabbit of Caerbannog meat</Rabbit_of_Caerbannog_Meat.label>
+  <Rabbit_of_Caerbannog_Meat.description>rabbit of Caerbannog meat</Rabbit_of_Caerbannog_Meat.description>
+  <Rabbit_of_Caerbannog_Corpse.label>rabbit of Caerbannog corpse</Rabbit_of_Caerbannog_Corpse.label>
+  <Rabbit_of_Caerbannog_Corpse.description>rabbit of Caerbannog corpse</Rabbit_of_Caerbannog_Corpse.description>
+</LanguageData>

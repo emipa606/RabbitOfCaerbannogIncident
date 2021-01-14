@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rabbit of Caerbannog Incident (Continued)</name>
+  <packageId>Mlie.RabbitOfCaerbannogIncident</packageId>
+  <author>Fuglypump</author>
+  <url>https://github.com/emipa606/RabbitOfCaerbannogIncident</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Fuglypumps mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1259215932
+
+- Goes well with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2096338681]Grenades Expanded[/url]
+- Added CE-support
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/RabbitOfCaerbannogIncident][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[url=https://github.com/Fuglypump/Rabbit-of-Caerbannog-Incident]GitHub Download[/url]
+
+This mod adds the Rabbit of Caerbannog from the movie titled [b][i]Monty Python and Holy Grail[/i][/b], published in 1974. That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!
+	
+[h1]New Incidents:[/h1]
+- Rabbit of Caerbannog: Spawns a killer rabbit on the edge of the map. (base chance = 2.0 with 15 day cooldown)
+- Rabbit of Caerbannog Pack: Spawns 2-6 killer rabbits on the edge of the map. (base chance = 2.0 with 30 day cooldown)
+
+[h1]Rabbit of Caerbannog:[/h1]
+- Fierce predator with combat stats comparable to that of a bear.
+- Uses front paws for claw attacks in addition to bite attacks (unlike vanilla rabbit)
+- Spawns neutral but has 100% chance to retaliate on attack.
+- Spawns hungry, has fast hunger rate and will hunt for food immediately.
+- 75% chance to attack on failed tame attempt.
+- Intermediate Intelligence (release command training)
+- Butchering yields Caerbannog Fur which is a small downgrade compared to the stats of thrumbofur.
+- Only spawns through the Rabbit of Caerbannog incidents.
+	
+[h1]Mod Interactions:[/h1]
+- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1224175982]Wild Animal Sex[/url]: Rabbit packs will start having orgy when they first spawn and can potentially become an invasive species that takes over the entire map when left unchecked.
+
+[h1]Mod Support: (optional)[/h1]
+- Compatible with [url=http://steamcommunity.com/sharedfiles/filedetails/?id=746425621]A Dog Said[/url] if using the mod [url=http://steamcommunity.com/sharedfiles/filedetails/?id=944381237]A Dog Said Easy Patcher[/url] with the correct load order.
+
+[h1]Load Order:[/h1]
+- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=746425621]A Dog Said[/url]
+- [url=http://steamcommunity.com/sharedfiles/filedetails/?id=944381237]A Dog Said Easy Patcher[/url]
+- [b]Killer Rabbits of Caerbannog[/b] (and other animal-adding mods)
+
+[h1]Credits:[/h1]
+- Coding: [b]Fuglypump[/b]
+- Textures and artwork: [b]Chicken Plucker[/b]
+- Japanese translation: [b]Proxyer[/b]
+
+[h1]Languages:[/h1]
+- English
+- 日本語 (Japanese)
+- If you would like to help translate this mod please post a comment.
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
+</ModMetaData>
+

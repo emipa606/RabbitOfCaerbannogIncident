@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Rabbit Single -->
+  <LetterLabelKillerRabbitSingleArrived>Rabbit of Caerbannog</LetterLabelKillerRabbitSingleArrived>
+  <KillerRabbitSingleArrived>A rabbit of Caerbannog has arrived!
+	
+Beware, this predator will retaliate immediately when attacked and hunt for food very often!</KillerRabbitSingleArrived>
+  <!-- Rabbit Pack -->
+  <LetterLabelKillerRabbitPackArrived>Rabbit of Caerbannog Pack</LetterLabelKillerRabbitPackArrived>
+  <KillerRabbitPackArrived>A pack of rabbits of Caerbannog have arrived! 
+		
+Beware, these predators will retaliate immediately when attacked and hunt for food very often!</KillerRabbitPackArrived>
+</LanguageData>

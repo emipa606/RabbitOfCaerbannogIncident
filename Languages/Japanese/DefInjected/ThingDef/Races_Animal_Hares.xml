@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rabbit_of_Caerbannog.label>殺人ウサギ</Rabbit_of_Caerbannog.label>
+  <Rabbit_of_Caerbannog.description>あなたが今目にしているそれは最も危険で、残酷な、邪悪なカルバノグに住む齧歯類動物です！</Rabbit_of_Caerbannog.description>
+  <Rabbit_of_Caerbannog.tools.1.label>左爪</Rabbit_of_Caerbannog.tools.1.label>
+  <Rabbit_of_Caerbannog.tools.2.label>右爪</Rabbit_of_Caerbannog.tools.2.label>
+  <Rabbit_of_Caerbannog.tools.3.label>ウサギの牙</Rabbit_of_Caerbannog.tools.3.label>
+  <Rabbit_of_Caerbannog_Leather.label>殺人ウサギの皮</Rabbit_of_Caerbannog_Leather.label>
+  <Rabbit_of_Caerbannog_Leather.description>殺人ウサギの皮</Rabbit_of_Caerbannog_Leather.description>
+  <Rabbit_of_Caerbannog_Leather.stuffProps.stuffAdjective>殺人ウサギの皮</Rabbit_of_Caerbannog_Leather.stuffProps.stuffAdjective>
+  <Rabbit_of_Caerbannog_Meat.label>殺人ウサギの肉</Rabbit_of_Caerbannog_Meat.label>
+  <Rabbit_of_Caerbannog_Meat.description>殺人ウサギの肉</Rabbit_of_Caerbannog_Meat.description>
+  <Rabbit_of_Caerbannog_Corpse.label>殺人ウサギの死骸</Rabbit_of_Caerbannog_Corpse.label>
+  <Rabbit_of_Caerbannog_Corpse.description>殺人ウサギの死骸</Rabbit_of_Caerbannog_Corpse.description>
+</LanguageData>
