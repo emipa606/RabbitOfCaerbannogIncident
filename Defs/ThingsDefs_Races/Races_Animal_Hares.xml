@@ -76,7 +76,7 @@
       <baseHungerRate>0.75</baseHungerRate>
       <baseHealthScale>1.5</baseHealthScale>
       <foodType>CarnivoreAnimalStrict</foodType>
-      <leatherDef>Leather_Light</leatherDef>
+      <leatherDef>Leather_KillerRabbit</leatherDef>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
       <manhunterOnTameFailChance>0.75</manhunterOnTameFailChance>
       <nameOnTameChance>1</nameOnTameChance>

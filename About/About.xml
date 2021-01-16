@@ -29,7 +29,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1259215932
 [/table]
 	
 [img]https://i.imgur.com/NOW7jU1.png[/img]
-[url=https://github.com/Fuglypump/Rabbit-of-Caerbannog-Incident]GitHub Download[/url]
 
 This mod adds the Rabbit of Caerbannog from the movie titled [b][i]Monty Python and Holy Grail[/i][/b], published in 1974. That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!
 	
@@ -44,7 +43,7 @@ This mod adds the Rabbit of Caerbannog from the movie titled [b][i]Monty Python 
 - Spawns hungry, has fast hunger rate and will hunt for food immediately.
 - 75% chance to attack on failed tame attempt.
 - Intermediate Intelligence (release command training)
-- Butchering yields Caerbannog Fur which is a small downgrade compared to the stats of thrumbofur.
+[strike]- Butchering yields Caerbannog Fur which is a small downgrade compared to the stats of thrumbofur.[/strike]
 - Only spawns through the Rabbit of Caerbannog incidents.
 	
 [h1]Mod Interactions:[/h1]
@@ -79,4 +78,3 @@ This mod adds the Rabbit of Caerbannog from the movie titled [b][i]Monty Python 
 [/list]
 </description>
 </ModMetaData>
-
