@@ -1,13 +1,10 @@
-﻿using RimWorld;
+using RimWorld;
 using Verse;
 
-namespace KillerRabbits
+namespace KillerRabbits;
+
+[DefOf]
+public static class KillerRabbitsDefOf
 {
-    // Token: 0x02000004 RID: 4
-    [DefOf]
-    public static class KillerRabbitsDefOf
-    {
-        // Token: 0x04000001 RID: 1
-        public static PawnKindDef Rabbit_of_Caerbannog;
-    }
+    public static PawnKindDef Rabbit_of_Caerbannog;
 }
