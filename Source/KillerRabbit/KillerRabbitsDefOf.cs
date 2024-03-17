@@ -7,4 +7,9 @@ namespace KillerRabbits;
 public static class KillerRabbitsDefOf
 {
     public static PawnKindDef Rabbit_of_Caerbannog;
+
+    static KillerRabbitsDefOf()
+    {
+        DefOfHelper.EnsureInitializedInCtor(typeof(KillerRabbitsDefOf));
+    }
 }
