@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: rabbit of Caerbannog -->
+  <Rabbit_of_Caerbannog.label>rabbit of Caerbannog</Rabbit_of_Caerbannog.label>
+  <!-- EN: That's the most foul, cruel, and bad-tempered rodent you ever set eyes on! -->
+  <Rabbit_of_Caerbannog.description>That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!</Rabbit_of_Caerbannog.description>
+  <!-- EN: head -->
+  <Rabbit_of_Caerbannog.tools.head-0.label>head</Rabbit_of_Caerbannog.tools.head-0.label>
+  <!-- EN: left claw -->
+  <Rabbit_of_Caerbannog.tools.left_claw.label>left claw</Rabbit_of_Caerbannog.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Rabbit_of_Caerbannog.tools.right_claw.label>right claw</Rabbit_of_Caerbannog.tools.right_claw.label>
+  <!-- EN: head -->
+  <Rabbit_of_Caerbannog.tools.head-1.label>head</Rabbit_of_Caerbannog.tools.head-1.label>
+</LanguageData>

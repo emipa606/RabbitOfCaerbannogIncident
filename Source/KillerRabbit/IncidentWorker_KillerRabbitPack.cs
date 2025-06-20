@@ -9,7 +9,6 @@ public class IncidentWorker_KillerRabbitPack : IncidentWorker
     protected override bool TryExecuteWorker(IncidentParms parms)
     {
         var map = (Map)parms.target;
-        var rabbit_of_Caerbannog = KillerRabbitsDefOf.Rabbit_of_Caerbannog;
         if (!RCellFinder.TryFindRandomPawnEntryCell(out var intVec, map, CellFinder.EdgeRoadChance_Animal))
         {
             return false;
@@ -19,7 +18,7 @@ public class IncidentWorker_KillerRabbitPack : IncidentWorker
         for (var i = 0; i < num; i++)
         {
             var intVec2 = CellFinder.RandomClosewalkCellNear(intVec, map, 10);
-            var pawn = PawnGenerator.GeneratePawn(rabbit_of_Caerbannog);
+            var pawn = PawnGenerator.GeneratePawn(KillerRabbitsDefOf.Rabbit_of_Caerbannog);
             var percentageThreshUrgentlyHungry = pawn.needs.food.PercentageThreshUrgentlyHungry;
             var percentageThreshHungry = pawn.needs.food.PercentageThreshHungry;
             var curLevelPercentage = Random.Range(percentageThreshUrgentlyHungry, percentageThreshHungry);

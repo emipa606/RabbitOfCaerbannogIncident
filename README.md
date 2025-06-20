@@ -1,18 +1,16 @@
-# RabbitOfCaerbannogIncident
+# [Rabbit of Caerbannog Incident (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2361380276)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Fuglypumps mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1259215932
 
-- Goes well with https://steamcommunity.com/sharedfiles/filedetails/?id=2096338681]Grenades Expanded
+- Goes well with [Grenades Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2096338681)
 - Added CE-support
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 This mod adds the Rabbit of Caerbannog from the movie titled ***Monty Python and Holy Grail***, published in 1974. That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!
 	
@@ -34,16 +32,16 @@ This mod adds the Rabbit of Caerbannog from the movie titled ***Monty Python and
 	
 # Mod Interactions:
 
-- http://steamcommunity.com/sharedfiles/filedetails/?id=1224175982]Wild Animal Sex: Rabbit packs will start having orgy when they first spawn and can potentially become an invasive species that takes over the entire map when left unchecked.
+- [Wild Animal Sex](http://steamcommunity.com/sharedfiles/filedetails/?id=1224175982): Rabbit packs will start having orgy when they first spawn and can potentially become an invasive species that takes over the entire map when left unchecked.
 
 # Mod Support: (optional)
 
-- Compatible with http://steamcommunity.com/sharedfiles/filedetails/?id=746425621]A Dog Said if using the mod http://steamcommunity.com/sharedfiles/filedetails/?id=944381237]A Dog Said Easy Patcher with the correct load order.
+- Compatible with [A Dog Said](http://steamcommunity.com/sharedfiles/filedetails/?id=746425621) if using the mod [A Dog Said Easy Patcher](http://steamcommunity.com/sharedfiles/filedetails/?id=944381237) with the correct load order.
 
 # Load Order:
 
-- http://steamcommunity.com/sharedfiles/filedetails/?id=746425621]A Dog Said
-- http://steamcommunity.com/sharedfiles/filedetails/?id=944381237]A Dog Said Easy Patcher
+- [A Dog Said](http://steamcommunity.com/sharedfiles/filedetails/?id=746425621)
+- [A Dog Said Easy Patcher](http://steamcommunity.com/sharedfiles/filedetails/?id=944381237)
 - **Killer Rabbits of Caerbannog** (and other animal-adding mods)
 
 # Credits:
@@ -64,13 +62,12 @@ This mod adds the Rabbit of Caerbannog from the movie titled ***Monty Python and
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2361380276]![Image](https://img.shields.io/github/v/release/emipa606/RabbitOfCaerbannogIncident?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/RabbitOfCaerbannogIncident?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2361380276) | tags:  movie-inspired
